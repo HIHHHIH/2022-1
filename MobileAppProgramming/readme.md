@@ -1,4 +1,4 @@
-Each folders are projects that I worked alone in this MobileAppProgramming course. All projects are done in Android Studio with JAVA. Specification and outline of each projects are attached in each folder.
+Each folders are projects that I worked alone in this MobileAppProgramming course. All projects are done in Android Studio with JAVA. Look for overviews of each project attached in this directory 
 
 #List of projects
 
