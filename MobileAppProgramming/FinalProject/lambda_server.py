@@ -15,7 +15,7 @@ WSGIRequestHandler.protocol_version = "HTTP/1.1"
 app = Flask(__name__)
 
 USER = "postgres"
-PW = "que!tSTR1NG"
+PW = fakePW
 URL = "database-1.c0kj3fru42xd.ap-northeast-2.rds.amazonaws.com"
 PORT = "5432"
 DB = "postgres"
